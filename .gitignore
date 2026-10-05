@@ -1,0 +1,30 @@
+# Data
+data/
+*.csv
+*.json
+*.parquet
+*.xlsx
+
+# Delta Lake
+_delta_log/
+*.delta
+
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Databricks
+.databricks/
+
+# OS
+.DS_Store
+Thumbs.db

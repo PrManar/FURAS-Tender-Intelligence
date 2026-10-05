@@ -1,0 +1,7 @@
+pyspark
+delta-spark
+requests
+streamlit
+databricks-sdk
+databricks-vectorsearch
+openai
