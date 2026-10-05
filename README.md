@@ -187,10 +187,10 @@ functionality. The submitted assistant files include the Streamlit
 application and the Databricks/RAG processing code.
 
 To launch the Streamlit application locally, use the application path
-included in `02_src/`, for example:
+included in `src/`, for example:
 
 ``` bash
-streamlit run 02_src/app.py
+streamlit run src/app.py
 ```
 
 The Smart Assistant supports Arabic and English interaction and uses
@@ -263,3 +263,7 @@ DATABRICKS_TOKEN = "<your-databricks-token>"
 -   Jana
 -   Salma
 -   Fajer
+
+
+
+# Data Availability: The datasets used in this project are not included in this repository due to confidentiality and NDA requirements.
