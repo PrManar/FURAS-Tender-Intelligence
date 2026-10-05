@@ -37,9 +37,8 @@ inquiry and multilingual interaction.
 -   SQL
 -   Databricks SQL Warehouse
 -   Power BI Desktop
--   Azure Data Factory and/or the configured Databricks workflow
-    environment used by the submitted orchestration files
--   Access to the required tender data sources
+-   Databricks workflow
+
 
 ### Smart Assistant
 
